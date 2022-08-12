@@ -1,96 +1,96 @@
-Feature;Feature Category
- IsSponsored;Metadata
- tagged_users;Metadata
- IsVideo;Metadata
- hashtags_cap;Metadata
- location;Metadata
- Days;Metadata
- N Hashstags;Metadata
- N Mentions;Metadata
- Location;Metadata
- Caption Len.;Metadata
- caption;Text
- N Emojis;Text
- Weigh. Emoji Sent;Text
- Cap. Sent. Score;Text
- Cap. Sent. Magn.;Text
- Person;Visual
- Vehicle;Visual
- Outdoor;Visual
- Animal;Visual
- Accessory;Visual
- Sports;Visual
- Kitchen;Visual
- Food;Visual
- Furniture;Visual
- Electronic;Visual
- Appliance;Visual
- Indoor;Visual
- %Red;Visual
- %Green;Visual
- %Blue;Visual
- %Lum;Visual
- %Warm;Visual
- %Cold;Visual
- Pleasure;Visual
- Arousal;Visual
- Dominance;Visual
- N Exp.Anus;Visual
- N Exp.Armpits;Visual
- N Cov.Belly;Visual
- N Exp.Belly;Visual
- N Cov.Buttocks;Visual
- N Exp.Buttocks;Visual
- N FaceF;Visual
- N FaceM;Visual
- N Cov.Feet;Visual
- N Exp.Feet;Visual
- N Cov.BreastF;Visual
- N Exp.BreastF;Visual
- N Cov.Genit.F;Visual
- N Exp.Genit.F;Visual
- N Exp.BreastM;Visual
- N Exp.Genit.M;Visual
- N Male;Visual
- N Female;Visual
- Age avg;Visual
- Age std;Visual
- Age min;Visual
- Age max;Visual
- M age avg;Visual
- M age std;Visual
- F age avg;Visual
- F age std;Visual
- mean_gender_conf;Visual
- mean_ages_conf;Visual
- ImgSentScore;Visual
- ColorHarmony;Visual
- MotionBlur;Visual
- Light;Visual
- Symmetry;Visual
- Repetition;Visual
- Aest. Score;Visual
- DoF;Visual
- VividColor;Visual
- Content;Visual
- Interesting Objs;Visual
- BalancingElement;Visual
-Shopping/dining;Visual
-Workplace;Visual
-Home/Hotel;Visual
-Transport.;Visual
-Sports/Leisure;Visual
-Cultural;Visual
-Water/Ice/Snow;Visual
-Mountains/hills/etc;Visual
-Forest/field/etc;Visual
-ManMadeElements;Visual
-Transport.;Visual
-CulturalHist.;Visual
-SportsLeisureParks;Visual
-IndustrialCostr.;Visual
-Houses/Gardens;Visual
-Commercial/Building;Visual
-Indoor;Visual
-OutdoorNatural;Visual
-OutdoorManmade;Visual
+Feature,Feature Category
+IsSponsored,Metadata
+tagged_users,Metadata
+IsVideo,Metadata
+hashtags_cap,Metadata
+location,Metadata
+Days,Metadata
+N Hashstags,Metadata
+N Mentions,Metadata
+Location,Metadata
+Caption Len.,Metadata
+caption,Text
+N Emojis,Text
+Weigh. Emoji Sent,Text
+Cap. Sent. Score,Text
+Cap. Sent. Magn.,Text
+Person,Visual
+Vehicle,Visual
+Outdoor,Visual
+Animal,Visual
+Accessory,Visual
+Sports,Visual
+Kitchen,Visual
+Food,Visual
+Furniture,Visual
+Electronic,Visual
+Appliance,Visual
+Indoor,Visual
+%Red,Visual
+%Green,Visual
+%Blue,Visual
+%Lum,Visual
+%Warm,Visual
+%Cold,Visual
+Pleasure,Visual
+Arousal,Visual
+Dominance,Visual
+N Exp.Anus,Visual
+N Exp.Armpits,Visual
+N Cov.Belly,Visual
+N Exp.Belly,Visual
+N Cov.Buttocks,Visual
+N Exp.Buttocks,Visual
+N FaceF,Visual
+N FaceM,Visual
+N Cov.Feet,Visual
+N Exp.Feet,Visual
+N Cov.BreastF,Visual
+N Exp.BreastF,Visual
+N Cov.Genit.F,Visual
+N Exp.Genit.F,Visual
+N Exp.BreastM,Visual
+N Exp.Genit.M,Visual
+N Male,Visual
+N Female,Visual
+Age avg,Visual
+Age std,Visual
+Age min,Visual
+Age max,Visual
+M age avg,Visual
+M age std,Visual
+F age avg,Visual
+F age std,Visual
+mean_gender_conf,Visual
+mean_ages_conf,Visual
+ImgSentScore,Visual
+ColorHarmony,Visual
+MotionBlur,Visual
+Light,Visual
+Symmetry,Visual
+Repetition,Visual
+Aest. Score,Visual
+DoF,Visual
+VividColor,Visual
+Content,Visual
+Interesting Objs,Visual
+BalancingElement,Visual
+Shopping/dining,Visual
+Workplace,Visual
+Home/Hotel,Visual
+Transport.,Visual
+Sports/Leisure,Visual
+Cultural,Visual
+Water/Ice/Snow,Visual
+Mountains/hills/etc,Visual
+Forest/field/etc,Visual
+ManMadeElements,Visual
+Transport.,Visual
+CulturalHist.,Visual
+SportsLeisureParks,Visual
+IndustrialCostr.,Visual
+Houses/Gardens,Visual
+Commercial/Building,Visual
+Indoor,Visual
+OutdoorNatural,Visual
+OutdoorManmade,Visual
